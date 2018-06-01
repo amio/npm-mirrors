@@ -14,5 +14,9 @@ module.exports = {
   'taobao': {
     'home': 'https://npm.taobao.org',
     'registry': 'https://registry.npm.taobao.org/'
+  },
+  'yarn': {
+    'home': 'https://yarnpkg.com/',
+    'registry': 'https://registry.yarnpkg.com/'
   }
 }
