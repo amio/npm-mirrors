@@ -7,7 +7,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "keywords": ["npm", "registry", "registries", "mirror", "mirrors"],
+  "keywords": [
+    "npm",
+    "registry",
+    "registries",
+    "mirror",
+    "mirrors"
+  ],
   "author": "Amio <amio.cn@gmail.com>",
   "license": "ISC"
 }
