@@ -1,0 +1,13 @@
+{
+  "name": "npm-mirrors",
+  "version": "1.0.0",
+  "repository": "amio/npm-mirrors",
+  "description": "npm registry mirrors list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": ["npm", "registry", "registries", "mirror", "mirrors"],
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "ISC"
+}
