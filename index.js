@@ -8,15 +8,11 @@ module.exports = {
     'registry': 'https://skimdb.npmjs.com/registry/'
   },
   'cnpm': {
-    'home': 'http://cnpmjs.org',
-    'registry': 'http://r.cnpmjs.org/'
+    'home': 'https://cnpmjs.org',
+    'registry': 'https://r.cnpmjs.org/'
   },
   'taobao': {
     'home': 'https://npm.taobao.org',
     'registry': 'https://registry.npm.taobao.org/'
-  },
-  'rednpm': {
-    'home': 'http://npm.mirror.cqupt.edu.cn/',
-    'registry': 'http://registry.mirror.cqupt.edu.cn/'
   }
 }
