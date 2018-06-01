@@ -1,5 +1,7 @@
 # npm-mirrors [![][npm-badge]][npm-link]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amio/npm-mirrors.svg)](https://greenkeeper.io/)
+
 A list for npm registry mirrors.
 
 ## Install
