@@ -1,6 +1,6 @@
 {
   "name": "npm-mirrors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": "amio/npm-mirrors",
   "description": "npm registry mirrors list.",
   "main": "index.js",
